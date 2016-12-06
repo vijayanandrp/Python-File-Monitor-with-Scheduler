@@ -1,0 +1,1255 @@
+[06/Dec/2016 16:12:02] - WATCH_DOG - INFO - #############################################################################
+[06/Dec/2016 16:12:02] - WATCH_DOG - INFO - #################### | Files - WATCHDOG | -> Starts here ####################
+[06/Dec/2016 16:12:02] - WATCH_DOG - INFO - #############################################################################
+[06/Dec/2016 16:12:02] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:12:02] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:12:02] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:12:02] - WATCH_DOG - INFO - Seconds to get delay = 24.936085 secs.
+[06/Dec/2016 16:12:27] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:12:27] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:12:27] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:12:27] - WATCH_DOG - INFO - Seconds to get delay = 24.996244 secs.
+[06/Dec/2016 16:12:52] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:12:52] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:12:52] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:12:52] - WATCH_DOG - INFO - Seconds to get delay = 24.997737 secs.
+[06/Dec/2016 16:13:17] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:13:17] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:13:17] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:13:17] - WATCH_DOG - INFO - Seconds to get delay = 24.997555 secs.
+[06/Dec/2016 16:13:42] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:13:42] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:13:42] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:13:42] - WATCH_DOG - INFO - Seconds to get delay = 24.99796 secs.
+[06/Dec/2016 16:14:07] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:14:07] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:14:07] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:14:07] - WATCH_DOG - INFO - Seconds to get delay = 24.998102 secs.
+[06/Dec/2016 16:14:32] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:14:32] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:14:32] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:14:32] - WATCH_DOG - INFO - Seconds to get delay = 24.997447 secs.
+[06/Dec/2016 16:14:57] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:14:57] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:14:57] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:14:57] - WATCH_DOG - INFO - Seconds to get delay = 24.996235 secs.
+[06/Dec/2016 16:15:22] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:15:22] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:15:22] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:15:22] - WATCH_DOG - INFO - Seconds to get delay = 24.997205 secs.
+[06/Dec/2016 16:15:47] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:15:47] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:15:47] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:15:47] - WATCH_DOG - INFO - Seconds to get delay = 24.997419 secs.
+[06/Dec/2016 16:16:12] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:16:12] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:16:12] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:16:12] - WATCH_DOG - INFO - Seconds to get delay = 24.997845 secs.
+[06/Dec/2016 16:16:37] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:16:37] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:16:37] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:16:37] - WATCH_DOG - INFO - Seconds to get delay = 24.997389 secs.
+[06/Dec/2016 16:17:02] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:17:02] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:17:02] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:17:02] - WATCH_DOG - INFO - Seconds to get delay = 24.997194 secs.
+[06/Dec/2016 16:17:27] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:17:27] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:17:27] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:17:27] - WATCH_DOG - INFO - Seconds to get delay = 24.99591 secs.
+[06/Dec/2016 16:17:52] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:17:52] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:17:52] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:17:52] - WATCH_DOG - INFO - Seconds to get delay = 24.996996 secs.
+[06/Dec/2016 16:18:17] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:18:17] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:18:17] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:18:17] - WATCH_DOG - INFO - Seconds to get delay = 24.998644 secs.
+[06/Dec/2016 16:18:42] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:18:42] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:18:42] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:18:42] - WATCH_DOG - INFO - Seconds to get delay = 24.997873 secs.
+[06/Dec/2016 16:19:07] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:19:07] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:19:07] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:19:07] - WATCH_DOG - INFO - Seconds to get delay = 24.998484 secs.
+[06/Dec/2016 16:19:32] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:19:32] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:19:32] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:19:32] - WATCH_DOG - INFO - Seconds to get delay = 24.997517 secs.
+[06/Dec/2016 16:19:57] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:19:57] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:19:57] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:19:57] - WATCH_DOG - INFO - Seconds to get delay = 24.997799 secs.
+[06/Dec/2016 16:20:22] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:20:22] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:20:22] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:20:22] - WATCH_DOG - INFO - Seconds to get delay = 24.997494 secs.
+[06/Dec/2016 16:20:47] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:20:47] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:20:47] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:20:47] - WATCH_DOG - INFO - Seconds to get delay = 24.998088 secs.
+[06/Dec/2016 16:21:12] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:21:12] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:21:12] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:21:12] - WATCH_DOG - INFO - Seconds to get delay = 24.997281 secs.
+[06/Dec/2016 16:21:37] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:21:37] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:21:37] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:21:37] - WATCH_DOG - INFO - Seconds to get delay = 24.997524 secs.
+[06/Dec/2016 16:22:02] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:22:02] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:22:02] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:22:02] - WATCH_DOG - INFO - Seconds to get delay = 24.997665 secs.
+[06/Dec/2016 16:22:27] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:22:27] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:22:27] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:22:27] - WATCH_DOG - INFO - Seconds to get delay = 24.998092 secs.
+[06/Dec/2016 16:22:52] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:22:52] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:22:52] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:22:52] - WATCH_DOG - INFO - Seconds to get delay = 24.99762 secs.
+[06/Dec/2016 16:23:17] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:23:17] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:23:17] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:23:17] - WATCH_DOG - INFO - Seconds to get delay = 24.996505 secs.
+[06/Dec/2016 16:23:42] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:23:42] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:23:42] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:23:42] - WATCH_DOG - INFO - Seconds to get delay = 24.996468 secs.
+[06/Dec/2016 16:24:07] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:24:07] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:24:07] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:24:07] - WATCH_DOG - INFO - Seconds to get delay = 24.997294 secs.
+[06/Dec/2016 16:24:32] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:24:32] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:24:32] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:24:32] - WATCH_DOG - INFO - Seconds to get delay = 24.995181 secs.
+[06/Dec/2016 16:24:57] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:24:57] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:24:57] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:24:57] - WATCH_DOG - INFO - Seconds to get delay = 24.997845 secs.
+[06/Dec/2016 16:25:22] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:25:22] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:25:22] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:25:22] - WATCH_DOG - INFO - Seconds to get delay = 24.997643 secs.
+[06/Dec/2016 16:25:47] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:25:47] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:25:47] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:25:47] - WATCH_DOG - INFO - Seconds to get delay = 24.997871 secs.
+[06/Dec/2016 16:26:12] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:26:12] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:26:12] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:26:12] - WATCH_DOG - INFO - Seconds to get delay = 24.998456 secs.
+[06/Dec/2016 16:26:37] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:26:37] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:26:37] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:26:37] - WATCH_DOG - INFO - Seconds to get delay = 24.99762 secs.
+[06/Dec/2016 16:27:02] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:27:02] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:27:02] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:27:02] - WATCH_DOG - INFO - Seconds to get delay = 24.996482 secs.
+[06/Dec/2016 16:27:27] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:27:27] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:27:27] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:27:27] - WATCH_DOG - INFO - Seconds to get delay = 24.998055 secs.
+[06/Dec/2016 16:27:52] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:27:52] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:27:52] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:27:52] - WATCH_DOG - INFO - Seconds to get delay = 24.997731 secs.
+[06/Dec/2016 16:28:17] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:28:17] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:28:17] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:28:17] - WATCH_DOG - INFO - Seconds to get delay = 24.99784 secs.
+[06/Dec/2016 16:28:42] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:28:42] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:28:42] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:28:42] - WATCH_DOG - INFO - Seconds to get delay = 24.998327 secs.
+[06/Dec/2016 16:29:07] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:29:07] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:29:07] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:29:07] - WATCH_DOG - INFO - Seconds to get delay = 24.997348 secs.
+[06/Dec/2016 16:29:32] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:29:32] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:29:32] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:29:32] - WATCH_DOG - INFO - Seconds to get delay = 24.997945 secs.
+[06/Dec/2016 16:29:57] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:29:57] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:29:57] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:29:57] - WATCH_DOG - INFO - Seconds to get delay = 24.997696 secs.
+[06/Dec/2016 16:30:22] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:30:22] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:30:22] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:30:22] - WATCH_DOG - INFO - Seconds to get delay = 24.997347 secs.
+[06/Dec/2016 16:30:47] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:30:47] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:30:47] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:30:47] - WATCH_DOG - INFO - Seconds to get delay = 24.997161 secs.
+[06/Dec/2016 16:31:12] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:31:12] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:31:12] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:31:12] - WATCH_DOG - INFO - Seconds to get delay = 24.996952 secs.
+[06/Dec/2016 16:31:37] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:31:37] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:31:37] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:31:37] - WATCH_DOG - INFO - Seconds to get delay = 24.998382 secs.
+[06/Dec/2016 16:32:34] - WATCH_DOG - INFO - #############################################################################
+[06/Dec/2016 16:32:34] - WATCH_DOG - INFO - #################### | Files - WATCHDOG | -> Starts here ####################
+[06/Dec/2016 16:32:34] - WATCH_DOG - INFO - #############################################################################
+[06/Dec/2016 16:32:34] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:32:34] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:32:34] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:32:34] - WATCH_DOG - INFO - Seconds to get delay = 24.747496 secs.
+[06/Dec/2016 16:32:45] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New Microsoft PowerPoint Presentation.pptx
+[06/Dec/2016 16:32:45] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New Microsoft PowerPoint Presentation.pptx
+[06/Dec/2016 16:32:49] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New Bitmap Image.bmp
+[06/Dec/2016 16:32:49] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New Bitmap Image.bmp
+[06/Dec/2016 16:32:53] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New WinZip Zipx File.zipx
+[06/Dec/2016 16:32:53] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New WinZip Zipx File.zipx
+[06/Dec/2016 16:32:59] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:32:59] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:32:59] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:32:59] - WATCH_DOG - INFO - Seconds to get delay = 24.997169 secs.
+[06/Dec/2016 16:32:59] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New Microsoft Word Document.docx
+[06/Dec/2016 16:32:59] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New Microsoft Word Document.docx
+[06/Dec/2016 16:33:06] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder\New Contact.contact
+[06/Dec/2016 16:33:06] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder\New Contact.contact
+[06/Dec/2016 16:33:07] - WATCH_DOG - DEBUG - Deleted - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder\New Contact.contact
+[06/Dec/2016 16:33:16] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder\New Text Document.txt
+[06/Dec/2016 16:33:16] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder\New Text Document.txt
+[06/Dec/2016 16:33:24] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:33:24] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:33:24] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:33:24] - WATCH_DOG - INFO - Seconds to get delay = 24.997563 secs.
+[06/Dec/2016 16:33:49] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:33:49] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:33:49] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:33:49] - WATCH_DOG - INFO - Seconds to get delay = 24.99797 secs.
+[06/Dec/2016 16:34:14] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:34:14] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:34:14] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:34:14] - WATCH_DOG - INFO - Seconds to get delay = 24.998614 secs.
+[06/Dec/2016 16:34:39] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:34:39] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:34:39] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:34:39] - WATCH_DOG - INFO - Seconds to get delay = 24.998308 secs.
+[06/Dec/2016 16:35:04] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:35:04] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:35:04] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:35:04] - WATCH_DOG - INFO - Seconds to get delay = 24.997661 secs.
+[06/Dec/2016 16:35:29] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:35:29] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:35:29] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:35:29] - WATCH_DOG - INFO - Seconds to get delay = 24.99832 secs.
+[06/Dec/2016 16:35:54] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:35:54] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:35:54] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:35:54] - WATCH_DOG - INFO - Seconds to get delay = 24.997317 secs.
+[06/Dec/2016 16:36:19] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:36:19] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:36:19] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:36:19] - WATCH_DOG - INFO - Seconds to get delay = 24.997077 secs.
+[06/Dec/2016 16:36:44] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:36:44] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:36:44] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:36:44] - WATCH_DOG - INFO - Seconds to get delay = 24.997206 secs.
+[06/Dec/2016 16:37:09] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:37:09] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:37:09] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:37:09] - WATCH_DOG - INFO - Seconds to get delay = 24.997363 secs.
+[06/Dec/2016 16:37:34] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:37:34] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:37:34] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:37:34] - WATCH_DOG - INFO - Seconds to get delay = 24.996231 secs.
+[06/Dec/2016 16:37:59] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:37:59] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:37:59] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:37:59] - WATCH_DOG - INFO - Seconds to get delay = 24.997528 secs.
+[06/Dec/2016 16:38:24] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:38:24] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:38:24] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:38:24] - WATCH_DOG - INFO - Seconds to get delay = 24.998239 secs.
+[06/Dec/2016 16:38:49] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:38:49] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:38:49] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:38:49] - WATCH_DOG - INFO - Seconds to get delay = 24.997058 secs.
+[06/Dec/2016 16:39:14] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:39:14] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:39:14] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:39:14] - WATCH_DOG - INFO - Seconds to get delay = 24.997546 secs.
+[06/Dec/2016 16:39:39] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:39:39] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:39:39] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:39:39] - WATCH_DOG - INFO - Seconds to get delay = 24.998173 secs.
+[06/Dec/2016 16:40:04] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:40:04] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:40:04] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:40:04] - WATCH_DOG - INFO - Seconds to get delay = 24.996893 secs.
+[06/Dec/2016 16:40:29] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:40:29] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:40:29] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:40:29] - WATCH_DOG - INFO - Seconds to get delay = 24.998237 secs.
+[06/Dec/2016 16:40:54] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:40:54] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:40:54] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:40:54] - WATCH_DOG - INFO - Seconds to get delay = 24.996927 secs.
+[06/Dec/2016 16:41:19] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:41:19] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:41:19] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:41:19] - WATCH_DOG - INFO - Seconds to get delay = 24.997882 secs.
+[06/Dec/2016 16:41:44] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:41:44] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:41:44] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:41:44] - WATCH_DOG - INFO - Seconds to get delay = 24.997819 secs.
+[06/Dec/2016 16:42:09] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:42:09] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:42:09] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:42:09] - WATCH_DOG - INFO - Seconds to get delay = 24.998053 secs.
+[06/Dec/2016 16:42:34] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:42:34] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:42:34] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:42:34] - WATCH_DOG - INFO - Seconds to get delay = 24.997555 secs.
+[06/Dec/2016 16:42:59] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:42:59] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:42:59] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:42:59] - WATCH_DOG - INFO - Seconds to get delay = 24.998163 secs.
+[06/Dec/2016 16:43:24] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:43:24] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:43:24] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:43:24] - WATCH_DOG - INFO - Seconds to get delay = 24.997439 secs.
+[06/Dec/2016 16:43:49] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:43:49] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:43:49] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:43:49] - WATCH_DOG - INFO - Seconds to get delay = 24.996266 secs.
+[06/Dec/2016 16:44:14] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:44:14] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:44:14] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:44:14] - WATCH_DOG - INFO - Seconds to get delay = 24.997386 secs.
+[06/Dec/2016 16:44:39] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:44:39] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:44:39] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:44:39] - WATCH_DOG - INFO - Seconds to get delay = 24.997411 secs.
+[06/Dec/2016 16:45:04] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:45:04] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:45:04] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:45:04] - WATCH_DOG - INFO - Seconds to get delay = 24.997361 secs.
+[06/Dec/2016 16:45:29] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:45:29] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:45:29] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:45:29] - WATCH_DOG - INFO - Seconds to get delay = 24.997333 secs.
+[06/Dec/2016 16:45:54] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:45:54] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:45:54] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:45:54] - WATCH_DOG - INFO - Seconds to get delay = 24.997768 secs.
+[06/Dec/2016 16:46:19] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:46:19] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:46:19] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:46:19] - WATCH_DOG - INFO - Seconds to get delay = 24.998253 secs.
+[06/Dec/2016 16:46:44] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:46:44] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:46:44] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:46:44] - WATCH_DOG - INFO - Seconds to get delay = 24.99721 secs.
+[06/Dec/2016 16:47:09] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:47:09] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:47:09] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:47:09] - WATCH_DOG - INFO - Seconds to get delay = 24.997904 secs.
+[06/Dec/2016 16:47:34] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:47:34] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:47:34] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:47:34] - WATCH_DOG - INFO - Seconds to get delay = 24.998263 secs.
+[06/Dec/2016 16:47:59] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:47:59] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:47:59] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:47:59] - WATCH_DOG - INFO - Seconds to get delay = 24.997958 secs.
+[06/Dec/2016 16:48:24] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:48:24] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:48:24] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:48:24] - WATCH_DOG - INFO - Seconds to get delay = 24.997696 secs.
+[06/Dec/2016 16:48:49] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:48:49] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:48:49] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:48:49] - WATCH_DOG - INFO - Seconds to get delay = 24.997997 secs.
+[06/Dec/2016 16:48:57] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder (2)\New folder\New Text Document.txt
+[06/Dec/2016 16:48:57] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder (2)\New folder\New Text Document.txt
+[06/Dec/2016 16:49:14] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:49:14] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:49:14] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:49:14] - WATCH_DOG - INFO - Seconds to get delay = 24.997442 secs.
+[06/Dec/2016 16:49:39] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:49:39] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:49:39] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:49:39] - WATCH_DOG - INFO - Seconds to get delay = 24.997354 secs.
+[06/Dec/2016 16:49:56] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder (2)\New folder\VIJAY ANAND - Copy.txt
+[06/Dec/2016 16:49:56] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder (2)\New folder\VIJAY ANAND - Copy.txt
+[06/Dec/2016 16:50:04] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:50:04] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:50:04] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:50:04] - WATCH_DOG - INFO - Seconds to get delay = 24.997109 secs.
+[06/Dec/2016 16:50:07] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder (2)\VIJAY ANAND.txt
+[06/Dec/2016 16:50:07] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\New folder (2)\VIJAY ANAND.txt
+[06/Dec/2016 16:50:09] - WATCH_DOG - DEBUG - Created - C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\VIJAY ANAND.txt
+[06/Dec/2016 16:50:09] - WATCH_DOG - INFO - Found -> C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\input\VIJAY ANAND.txt
+[06/Dec/2016 16:50:29] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:50:29] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:50:29] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:50:29] - WATCH_DOG - INFO - Seconds to get delay = 24.997118 secs.
+[06/Dec/2016 16:50:54] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:50:54] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:50:54] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:50:54] - WATCH_DOG - INFO - Seconds to get delay = 24.997268 secs.
+[06/Dec/2016 16:51:19] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:51:19] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:51:19] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:51:19] - WATCH_DOG - INFO - Seconds to get delay = 24.997001 secs.
+[06/Dec/2016 16:51:44] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:51:44] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:51:44] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:51:44] - WATCH_DOG - INFO - Seconds to get delay = 24.996805 secs.
+[06/Dec/2016 16:52:09] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:52:09] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:52:09] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:52:09] - WATCH_DOG - INFO - Seconds to get delay = 24.997698 secs.
+[06/Dec/2016 16:52:34] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:52:34] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:52:34] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:52:34] - WATCH_DOG - INFO - Seconds to get delay = 24.997777 secs.
+[06/Dec/2016 16:52:59] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:52:59] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:52:59] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:52:59] - WATCH_DOG - INFO - Seconds to get delay = 24.99765 secs.
+[06/Dec/2016 16:53:24] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:53:24] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:53:24] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:53:24] - WATCH_DOG - INFO - Seconds to get delay = 24.997639 secs.
+[06/Dec/2016 16:53:49] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:53:49] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:53:49] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:53:49] - WATCH_DOG - INFO - Seconds to get delay = 24.996835 secs.
+[06/Dec/2016 16:54:14] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:54:14] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:54:14] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:54:14] - WATCH_DOG - INFO - Seconds to get delay = 24.99791 secs.
+[06/Dec/2016 16:58:03] - WATCH_DOG - INFO - #############################################################################
+[06/Dec/2016 16:58:03] - WATCH_DOG - INFO - #################### | Files - WATCHDOG | -> Starts here ####################
+[06/Dec/2016 16:58:03] - WATCH_DOG - INFO - #############################################################################
+[06/Dec/2016 16:58:03] - OsUtils - INFO - file C:\Users\vp2\Documents\WORK\python\R_D\File_Monitor\data\etc\config.json is found
+[06/Dec/2016 16:58:03] - WATCH_DOG - DEBUG - Task Json : 
+ {   'is_schedule': True,
+    'schedule_time': {   'days': 0,
+                         'hours': 0,
+                         'microseconds': 1,
+                         'milliseconds': 0,
+                         'minutes': 0,
+                         'seconds': 25,
+                         'weeks': 0}}
+[06/Dec/2016 16:58:03] - WATCH_DOG - INFO - Valid Config.json .. Analyzing files status now... 
+[06/Dec/2016 16:58:03] - WATCH_DOG - INFO - Seconds to get delay = 24.386878 secs.
+[06/Dec/2016 16:58:03] - WATCH_DOG - DEBUG - Scheduling Enabled. Schedule Time in seconds - 24.386878 
