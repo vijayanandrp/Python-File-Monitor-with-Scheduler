@@ -1,6 +1,8 @@
 # File-Monitor-with-Scheduler
 Demonstrated a simple framework to monitor the new files at the scheduled interval period.
 
+* Run the program and drop the new files @ this location [/data/input/] 
+Once the file path is retrieved, you can do the rest.
 
 * TO ENABLE SCHEDULE AND CONFIGURE TIMINGS [/data/etc/config.json]
 ```JSON
