@@ -31,11 +31,10 @@ class Logger(object):
     def defaults(name, logfile=log_file, debug_level='DEBUG', output_stream=True, check_log_file=False):
         """ default configuration settings in the method """
         
-        if check_log_file:
+        if check_log_file and os.path.exists(log_file):
             """ Backup the old log file with date stamp """
             new_file = "{}_{}".format(date_stamp_with_days_subtraction(days_to_subtract=1), os.path.basename(logfile))
             new_file = os.path.join(log_path, new_file)
-            print(new_file, log_file)
             if not os.path.isfile(new_file):
                 os.rename(log_file, new_file)
         
